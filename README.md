@@ -16,6 +16,6 @@ discussions concerning the code structure, clarity, documentation (and what else
 On this sad note, I took the liberty of publishing the code "as is" leaving it to the judgement of the reader:
 [Polynomial parser on GitHub](https://github.com/workasm/CGAL_Polynomial_parser "CGAL::Polynomial_parser_d on GitHub").
 
-Here is also short inroduction to the parser: [Parser Manual](https://github.com/workasm/CGAL_Polynomial_parser "Parser Manual").
+Here is also short inroduction to the parser: [Parser Manual](https://workasm.github.io/pdf/poly_parser_2012.pdf "Parser Manual").
 
 For installation, clone CGAL repository and copy the parser and examples into Polynomial package.
